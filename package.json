@@ -72,8 +72,8 @@
     "electron-debug": "^3.0.1",
     "eslint": "6.4.0",
     "live-server": "^1.2.1",
-    "serve": "11.2.0",
-    "start-server-and-test": "1.10.6"
+    "serve": "^11.3.2",
+    "start-server-and-test": "^1.11.5"
   },
   "scripts": {
     "start": "electron-forge start",
